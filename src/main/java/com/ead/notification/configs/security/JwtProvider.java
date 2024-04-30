@@ -1,4 +1,4 @@
-package com.ead.notification.security;
+package com.ead.notification.configs.security;
 
 import io.jsonwebtoken.*;
 import org.apache.logging.log4j.LogManager;

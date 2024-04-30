@@ -1,4 +1,4 @@
-package com.ead.notification.security;
+package com.ead.notification.configs.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

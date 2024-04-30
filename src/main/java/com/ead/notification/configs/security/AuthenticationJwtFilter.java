@@ -1,4 +1,4 @@
-package com.ead.notification.security;
+package com.ead.notification.configs.security;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
